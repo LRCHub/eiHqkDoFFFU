@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "chase",
+  "base_artist": "batta",
+  "createdAt": "2026-02-19T13:30:41.196959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Chase Each Other Around the Room",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/01_Let's_Chase_Each_Other_Around_the_Room_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's Chase Each Other Around The Room (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/02_Let's_Chase_Each_Other_Around_The_Room_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Chase, Pt. 2",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/03_The_Chase,_Pt._2_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss Chase",
+      "artist": "Lush",
+      "has_synced": true,
+      "path": "select/04_Kiss_Chase_Lush.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Traumatized (Intro) (Prod by Chase Davis)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/05_Traumatized_(Intro)_(Prod_by_Chase_Davis)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Car Chase Terror !",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/06_Car_Chase_Terror_!_M83.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Matter Which Direction I'm Going in, I Never Chase These Hoes",
+      "artist": "$uicideboy$",
+      "has_synced": false,
+      "path": "select/07_No_Matter_Which_Direction_I'm_Going_in,_I_Never_Chase_These_Hoes_$uicideboy$.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Incredible Journey of Timothy Chase",
+      "artist": "Tomorrow",
+      "has_synced": false,
+      "path": "select/08_The_Incredible_Journey_of_Timothy_Chase_Tomorrow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chase The Night Away",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/09_Chase_The_Night_Away_Keane.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chase the Sun",
+      "artist": "Planet Funk",
+      "has_synced": true,
+      "path": "select/10_Chase_the_Sun_Planet_Funk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/11_The_Chase_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/12_The_Chase_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chase You Off",
+      "artist": "Annuals",
+      "has_synced": false,
+      "path": "select/13_Chase_You_Off_Annuals.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chase Me",
+      "artist": "Katy B feat. Sasha Keable & JD. Reid",
+      "has_synced": false,
+      "path": "select/14_Chase_Me_Katy_B_feat._Sasha_Keable_&_JD._Reid.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chase Me",
+      "artist": "Katy B",
+      "has_synced": false,
+      "path": "select/15_Chase_Me_Katy_B.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Doh Wah Diddy - Eric Chase Remix Edit",
+      "artist": "Fun Factory",
+      "has_synced": false,
+      "path": "select/16_Doh_Wah_Diddy_-_Eric_Chase_Remix_Edit_Fun_Factory.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chase",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/17_Chase_Son_Lux.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "chase",
+      "artist": "batta",
+      "has_synced": false,
+      "path": "select/pl_01_chase_batta.txt"
+    }
+  ]
+}
